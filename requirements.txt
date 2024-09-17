@@ -8,3 +8,5 @@ IPython
 streamlit-folium
 streamlit-navigation-bar
 imbalanced-learn
+Jinja2
+MarkupSafe
