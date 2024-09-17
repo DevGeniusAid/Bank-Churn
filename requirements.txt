@@ -4,10 +4,8 @@ numpy
 plotly
 scikit-learn
 dataprep
-IPython
-streamlit-folium
-streamlit-navigation-bar
+streamlit_folium
+streamlit_navigation_bar
 imbalanced-learn
-Jinja2
-MarkupSafe>=2.1.0
+
 
