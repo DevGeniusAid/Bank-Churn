@@ -3,11 +3,8 @@ pandas
 numpy
 plotly
 scikit-learn
-dataprep
 streamlit_folium
 streamlit_navigation_bar
 imbalanced-learn
-bokeh==3.2.0   
-jinja2==3.1.2    
-markupsafe 
+
 

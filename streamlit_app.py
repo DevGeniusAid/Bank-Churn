@@ -9,7 +9,6 @@ import datetime as dt
 from sklearn.decomposition import PCA
 from sklearn.model_selection import train_test_split,cross_val_score
 from datetime import datetime
-from dataprep.eda import plot
 from IPython.display import display
 from streamlit_folium import st_folium
 from streamlit_folium import folium_static
@@ -35,8 +34,6 @@ warnings.filterwarnings('ignore')
 # -
 
 st.set_page_config(layout='wide')
-
-from dataprep.eda import plot, plot_correlation, create_report, plot_missing
 
 bank = pd.read_csv('BankChurners.csv')
 
