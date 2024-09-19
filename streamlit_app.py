@@ -13,8 +13,8 @@ from datetime import datetime
 from streamlit_folium import st_folium
 from streamlit_folium import folium_static
 from streamlit_navigation_bar import st_navbar
-from plotly.offline import init_notebook_mode
-init_notebook_mode(connected=True)
+# from plotly.offline import init_notebook_mode
+# init_notebook_mode(connected=True)
 from plotly.subplots import make_subplots
 
 
