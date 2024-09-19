@@ -9,7 +9,7 @@ import datetime as dt
 from sklearn.decomposition import PCA
 from sklearn.model_selection import train_test_split,cross_val_score
 from datetime import datetime
-from IPython.display import display
+# from IPython.display import display
 from streamlit_folium import st_folium
 from streamlit_folium import folium_static
 from streamlit_navigation_bar import st_navbar
